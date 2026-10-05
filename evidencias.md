@@ -8,6 +8,10 @@
 ![Entorno y comandos - Annatar](./imagenesAnnatar/image-1.png)
 ![Ejecución de servidor - Annatar](./imagenesAnnatar/image-2.png)
 
+### Evidencias de Merali
+![Entorno y comandos - Merali](./imagenesMerali/reto1-1.png)
+![Ejecución de servidor - Merali](./imagenesMerali/reto1-2.png)
+
 > **Nota del equipo:** Todos los integrantes trabajamos sobre entorno Windows.
 
 ---
@@ -38,6 +42,17 @@
 
 ---
 
+### Evidencias de Merali
+
+#### Código de `reglas.py`
+![Código reglas.py - Merali](./imagenesMerali/reto2-4.png)
+
+#### Salidas de pruebas
+![Salida de prueba 1 - Merali](./imagenesMerali/reto2-1.png)
+![Salida de prueba 2 - Merali](./imagenesMerali/reto2-2.png)
+![Salida de prueba 3 - Merali](./imagenesMerali/reto2-3.png)
+
+---
 ## Preguntas de Reflexión
 
 ### ¿Por qué la validación tiene que estar en el backend, aunque la app móvil ya revise que el campo no esté vacío?
