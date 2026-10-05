@@ -20,6 +20,7 @@ Salidas:
 ![alt text](image-6.png)
 
 
+
 ¿Por qué la validación tiene que estar en el backend, aunque la app móvil ya revise que el campo no esté vacío?
 Por seguridad e integridad de los datos. Un usuario malintencionado puede saltarse la aplicación móvil y enviar peticiones directas a la API usando herramientas como Postman, cURL o un script de Python. Además, si en el futuro desarrollas más clientes , el backend actúa como la única barrera de defensa, garantizando que no entren datos corruptos a tu sistema sin importar el origen de la petición.
 
