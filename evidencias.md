@@ -12,6 +12,10 @@
 ![Entorno y comandos - Merali](./imagenesMerali/reto1-1.png)
 ![Ejecución de servidor - Merali](./imagenesMerali/reto1-2.png)
 
+### Evidencias de Daniel
+![Entorno y comandos - Daniel](./imagenesDaniel/reto1-1.png)
+![Ejecución de servidor - Daniel](./imagenesDaniel/reto1-2.png)
+
 > **Nota del equipo:** Todos los integrantes trabajamos sobre entorno Windows.
 
 ---
@@ -51,6 +55,18 @@
 ![Salida de prueba 1 - Merali](./imagenesMerali/reto2-1.png)
 ![Salida de prueba 2 - Merali](./imagenesMerali/reto2-2.png)
 ![Salida de prueba 3 - Merali](./imagenesMerali/reto2-3.png)
+
+---
+
+### Evidencias de Daniel
+
+#### Código de `reglas.py`
+![Código reglas.py - Daniel](./imagenesDaniel/reto2-4.png)
+
+#### Salidas de pruebas
+![Salida de prueba 1 - Daniel](./imagenesDaniel/reto2-1.png)
+![Salida de prueba 2 - Daniel](./imagenesDaniel/reto2-2.png)
+![Salida de prueba 3 - Daniel](./imagenesDaniel/reto2-3.png)
 
 ---
 ## Preguntas de Reflexión
